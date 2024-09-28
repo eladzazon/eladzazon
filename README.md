@@ -1,7 +1,7 @@
 
 # Hi, I'm Elad Zazon
 
-👋 I'm a DevOps\Automation Engineer
+👋 I'm a DevOps & Automation Engineer
 
 * 🐳 I love to develop and play with Docker projects
 * 🏠 I Like Home automation projects
