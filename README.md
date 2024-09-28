@@ -35,6 +35,8 @@
   ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3)
    
 ### Infrastructure and DevOps
+  ![Kubernetes](https://img.shields.io/badge/Kubernetes-333333?style=flat&logo=kubernetes)
+  ![OpenShift](https://img.shields.io/badge/OpenShift-333333?style=flat&logo=redhatopenshift)
   ![Ansible](https://img.shields.io/badge/ansible-333333.svg?style=flat&logo=ansible)
   ![Jenkins](https://img.shields.io/badge/jenkins-333333.svg?style=flat&logo=jenkins)
   ![UiPath](https://img.shields.io/badge/UiPath-333333?style=flat&logo=UiPath)
