@@ -10,7 +10,7 @@
 * ✨ For special use cases i use UIPath to automate UI
 * 📲 I Like Android and use Google Pixel for daily use
 * 🖌️ I Use Photoshop for hobbit purposes
-* 🖌️ I Use Wordpress for a long time
+* 📘 I Use Wordpress for a long time
 * 💬 Ask me about anything, I am happy to help 
 
 [![Elad Zazon profile views](https://u8views.com/api/v1/github/profiles/441114/views/day-week-month-total-count.svg)](https://u8views.com/github/eladzazon)
