@@ -41,6 +41,7 @@
   ![Jenkins](https://img.shields.io/badge/jenkins-333333.svg?style=flat&logo=jenkins)
   ![UiPath](https://img.shields.io/badge/UiPath-333333?style=flat&logo=UiPath)
   ![ArgoCD](https://img.shields.io/badge/ArgoCD-333333?style=flat&logo=argo)
+  ![Nexus](https://img.shields.io/badge/Nexus-333333?style=flat&logo=sonatype)
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![GitHub Actions](https://img.shields.io/badge/github%20actions-333333.svg?style=flat&logo=githubactions)
