@@ -14,6 +14,10 @@
 
 [![Elad Zazon profile views](https://u8views.com/api/v1/github/profiles/441114/views/day-week-month-total-count.svg)](https://u8views.com/github/eladzazon)
 
+## Blogs & Websites
+* [Reka.us](https://reka.us)
+* [Tazone.net](https://tazone.net)
+
 ## Connect with me
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:eladzazon@gmail.com)
 [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/zazon)
