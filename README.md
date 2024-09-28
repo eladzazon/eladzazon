@@ -67,9 +67,10 @@
   ![ChatGPT](https://img.shields.io/badge/chatGPT-333333?style=flat&logo=openai)
   ![Google Gemini](https://img.shields.io/badge/Google%20Gemini-333333?style=flat&logo=googlegemini)
 
-### Hobbies
+### Hobbies & Likes
   ![Home Assistant](https://img.shields.io/badge/home%20assistant-333333.svg?style=flat&logo=home-assistant)
   ![WordPress](https://img.shields.io/badge/WordPress-333333.svg??style=flat&logo=wordpress)
+  ![UptimeKuma](https://img.shields.io/badge/UptimeKuma-333333?style=flat&logo=uptimekuma)
   
 <!--
 **eladzazon/eladzazon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
