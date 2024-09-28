@@ -22,44 +22,42 @@
 ## Tech Knowledge
 
 ### Languages
-  ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat&logo=powershell)
+  ![PowerShell](https://img.shields.io/badge/PowerShell-333333.svg?style=flat&logo=powershell)
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-  ![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=flat&logo=yaml)
+  ![YAML](https://img.shields.io/badge/yaml-%23333333.svg?style=flat&logo=yaml)
   ![Bash](https://img.shields.io/badge/-Bash-333333?style=flat&logo=gnu-bash)
   ![Html5](https://img.shields.io/badge/-Html5-333333?style=flat&logo=html5)
   ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3)
    
 ### Infrastructure and DevOps
-  ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=flat&logo=ansible)
-  ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=flat&logo=jenkins)
-  ![UiPath](https://img.shields.io/badge/UiPath-orange?style=flat&logo=UiPath)
-  ![ArgoCD](https://img.shields.io/badge/ArgoCD-white?style=flat&logo=argo)
+  ![Ansible](https://img.shields.io/badge/ansible-333333.svg?style=flat&logo=ansible)
+  ![Jenkins](https://img.shields.io/badge/jenkins-333333.svg?style=flat&logo=jenkins)
+  ![UiPath](https://img.shields.io/badge/UiPath-333333?style=flat&logo=UiPath)
+  ![ArgoCD](https://img.shields.io/badge/ArgoCD-333333?style=flat&logo=argo)
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat&logo=githubactions)
+  ![GitHub Actions](https://img.shields.io/badge/github%20actions-333333.svg?style=flat&logo=githubactions)
   ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
   ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-333333?style=flat&logo=rabbitmq)
   ![Mosquitto](https://img.shields.io/badge/-Mosquitto-333333?style=flat&logo=eclipse-mosquitto)
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![AzureDevOps](https://img.shields.io/badge/-Azure%20DevOps-333333?style=flat&logo=azuredevops)
-  ![Nginx](https://img.shields.io/badge/-Nginx-333333?style=flat&logo=nginx)
-  ![Cloudflare](https://img.shields.io/badge/-Cloudflare-333333?style=flat&logo=Cloudflare)
 
 ### Operating Systems
   ![Windows](https://img.shields.io/badge/-Windows%2010-333333?style=flat&logo=windows)
-  ![Red Hat](https://img.shields.io/badge/Red%20Hat-EE0000?style=flat&logo=redhat)
+  ![Red Hat](https://img.shields.io/badge/Red%20Hat-333333?style=flat&logo=redhat)
   ![Ubuntu](https://img.shields.io/badge/-Ubuntu-333333?style=flat&logo=ubuntu)
 
 ### IoT
-  ![Home Assistant](https://img.shields.io/badge/home%20assistant-%2341BDF5.svg?style=flat&logo=home-assistant)
+  ![Home Assistant](https://img.shields.io/badge/home%20assistant-333333.svg?style=flat&logo=home-assistant)
   ![Raspberry PI](https://img.shields.io/badge/-Raspberry%20Pi-333333?style=flat&logo=Raspberry%20Pi)
   ![Arduino](https://img.shields.io/badge/-Arduino-333333?style=flat&logo=Arduino)
   ![MQTT](https://img.shields.io/badge/-MQTT-333333?style=flat&logo=MQTT)
   ![ESP](https://img.shields.io/badge/-ESP-333333?style=flat&logo=ESP)
   
 ### Artificial Intelligence and Bots
-  ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=flat&logo=openai)
-  ![Google Gemini](https://img.shields.io/badge/Google%20Gemini-886FBF?style=flat&logo=googlegemini)
+  ![ChatGPT](https://img.shields.io/badge/chatGPT-333333?style=flat&logo=openai)
+  ![Google Gemini](https://img.shields.io/badge/Google%20Gemini-333333?style=flat&logo=googlegemini)
 
 <!--
 **eladzazon/eladzazon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
