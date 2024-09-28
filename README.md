@@ -10,6 +10,7 @@
 * ✨ For special use cases i use UIPath to automate UI
 * 📲 I Like Android and use Google Pixel for daily use
 * 🖌️ I Use Photoshop for hobbit purposes
+* 🖌️ I Use Wordpress for a long time
 * 💬 Ask me about anything, I am happy to help 
 
 [![Elad Zazon profile views](https://u8views.com/api/v1/github/profiles/441114/views/day-week-month-total-count.svg)](https://u8views.com/github/eladzazon)
@@ -63,6 +64,10 @@
   ![ChatGPT](https://img.shields.io/badge/chatGPT-333333?style=flat&logo=openai)
   ![Google Gemini](https://img.shields.io/badge/Google%20Gemini-333333?style=flat&logo=googlegemini)
 
+### Hobbies
+  ![Home Assistant](https://img.shields.io/badge/home%20assistant-333333.svg?style=flat&logo=home-assistant)
+  ![WordPress](https://img.shields.io/badge/WordPress-333333.svg??style=flat&logo=wordpress)
+  
 <!--
 **eladzazon/eladzazon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
