@@ -12,7 +12,7 @@
 * <img src="https://simpleicons.org/icons/ansible.svg" alt="Ansible" width="20" height="20"> I Use Ansible & Jenkins to Automate most stuff
 * <img src="https://cdn.prod.website-files.com/6640cd28f51f13175e577c05/664e00cd1c623a16e39fe17f_23b3ed8e-fefb-59fd-a765-342090e5588b.svg" alt="UiPath" width="20" height="20"> For special use cases i use UIPath to automate UI
 * <img src="https://simpleicons.org/icons/android.svg" alt="Android" width="20" height="20"> I Like Android and use Google Pixel for daily use
-* <img src="https://simpleicons.org/icons/adobephotoshop.svg" alt="Photoshop" width="20" height="20"> I Use Photoshop for hobbit purposes
+* <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1051px-Adobe_Photoshop_CC_icon.svg.png" alt="Photoshop" width="20" height="20"> I Use Photoshop for hobbit purposes
 * <img src="https://simpleicons.org/icons/wordpress.svg" alt="WordPress" width="20" height="20"> I Use Wordpress for a long time and maintain 2 blogs
 * 💬 Ask me about anything, I am happy to help 
 
