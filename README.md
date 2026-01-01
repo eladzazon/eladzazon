@@ -59,15 +59,6 @@ I specialize in infrastructure automation, containerization, and making life eas
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eladzazon&show_icons=true&theme=radical&count_private=true" height="150" alt="Elad's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eladzazon&layout=compact&theme=radical" height="150" alt="Elad's Top Languages" />
-</div>
-
----
-
 ### 🌐 Blogs & Socials
 
 * 📝 **Tech Blog:** [Reka.us](https://reka.us)
