@@ -2,7 +2,7 @@
 
 ### 🚀 DevOps & Automation Engineer
 
-I specialize in infrastructure automation, containerization, and making life easier with code. Based in **Kiryat Bialik, Israel**.
+I specialize in infrastructure automation, containerization, and making life easier with code.
 
 ---
 
