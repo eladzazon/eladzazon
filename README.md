@@ -1,91 +1,87 @@
+# Hi there, I'm Elad Zazon 👋
 
-# Hi, I'm Elad Zazon
+### 🚀 DevOps & Automation Engineer
 
+I specialize in infrastructure automation, containerization, and making life easier with code. Based in **Kiryat Bialik, Israel**.
 
+---
 
+### ⚡ About Me
 
-👋 I'm a DevOps & Automation Engineer
+* 🐳 **Containers:** I love developing and experimenting with **Docker** & **OpenShift**.
+* 🏠 **Home Automation:** Heavy user of **Home Assistant** for complex smart home setups.
+* 🤖 **DIY:** Passionate about electronics, IoT, and DIY hardware projects.
+* ⚙️ **Automation:** I use **Ansible**, **PowerShell**, & **Jenkins** to automate infrastructure.
+* 🔄 **RPA:** I utilize **UiPath** for specialized UI automation tasks.
+* 📱 **Mobile:** Android enthusiast (Team Pixel).
+* 🎨 **Creative:** I use **Photoshop** for design and hobby projects.
+* ✍️ **Blogging:** Long-time **WordPress** user maintaining two personal blogs.
 
-* 🐳 I Love to develop and play with Docker projects
-* 🏠 I Like Home automation projects, specially Home Assistant
-* 🤖 I Love electronics and DIY projects
-* <img src="https://simpleicons.org/icons/ansible.svg" alt="Ansible" width="20" height="20"> I Use Ansible & Jenkins to Automate most stuff
-* <img src="https://cdn.prod.website-files.com/6640cd28f51f13175e577c05/664e00cd1c623a16e39fe17f_23b3ed8e-fefb-59fd-a765-342090e5588b.svg" alt="UiPath" width="20" height="20"> For special use cases i use UIPath to automate UI
-* <img src="https://simpleicons.org/icons/android.svg" alt="Android" width="20" height="20"> I Like Android and use Google Pixel for daily use
-* <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1051px-Adobe_Photoshop_CC_icon.svg.png" alt="Photoshop" width="20" height="20"> I Use Photoshop for hobbit purposes
-* <img src="https://simpleicons.org/icons/wordpress.svg" alt="WordPress" width="20" height="20"> I Use Wordpress for a long time and maintain 2 blogs
-* 💬 Ask me about anything, I am happy to help 
+---
 
-[![Elad Zazon profile views](https://u8views.com/api/v1/github/profiles/441114/views/day-week-month-total-count.svg)](https://u8views.com/github/eladzazon)
+### 🛠️ Tech Stack
 
-## Blogs & Websites
-* [Reka.us](https://reka.us)
-* [Tazone.net](https://tazone.net)
+#### 💻 Languages
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
+![YAML](https://img.shields.io/badge/YAML-CB171E?style=flat&logo=yaml&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
-## Connect with me
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:eladzazon@gmail.com)
-[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/zazon)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elad-zazon-88510b1a)
+#### 🚀 DevOps & Infrastructure
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![OpenShift](https://img.shields.io/badge/OpenShift-EE0000?style=flat&logo=redhatopenshift&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat&logo=azure-devops&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat&logo=argo&logoColor=white)
+![UiPath](https://img.shields.io/badge/UiPath-FA4616?style=flat&logo=uipath&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-## Tech Knowledge
+#### 📡 IoT & OS
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat&logo=raspberry-pi&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
+![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat&logo=mqtt&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
+![Red Hat](https://img.shields.io/badge/Red_Hat-EE0000?style=flat&logo=redhat&logoColor=white)
 
-### Languages
-  ![PowerShell](https://img.shields.io/badge/PowerShell-333333.svg?style=flat&logo=powershell)
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-  ![YAML](https://img.shields.io/badge/yaml-%23333333.svg?style=flat&logo=yaml)
-  ![Bash](https://img.shields.io/badge/-Bash-333333?style=flat&logo=gnu-bash)
-  ![Html5](https://img.shields.io/badge/-Html5-333333?style=flat&logo=html5)
-  ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3)
-   
-### Infrastructure and DevOps
-  ![Kubernetes](https://img.shields.io/badge/Kubernetes-333333?style=flat&logo=kubernetes)
-  ![OpenShift](https://img.shields.io/badge/OpenShift-333333?style=flat&logo=redhatopenshift)
-  ![Ansible](https://img.shields.io/badge/ansible-333333.svg?style=flat&logo=ansible)
-  ![Jenkins](https://img.shields.io/badge/jenkins-333333.svg?style=flat&logo=jenkins)
-  ![UiPath](https://img.shields.io/badge/UiPath-333333?style=flat&logo=UiPath)
-  ![ArgoCD](https://img.shields.io/badge/ArgoCD-333333?style=flat&logo=argo)
-  ![Nexus](https://img.shields.io/badge/Nexus-333333?style=flat&logo=sonatype)
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![GitHub Actions](https://img.shields.io/badge/github%20actions-333333.svg?style=flat&logo=githubactions)
-  ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
-  ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-333333?style=flat&logo=rabbitmq)
-  ![Mosquitto](https://img.shields.io/badge/-Mosquitto-333333?style=flat&logo=eclipse-mosquitto)
-  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-  ![AzureDevOps](https://img.shields.io/badge/-Azure%20DevOps-333333?style=flat&logo=azuredevops)
+#### 🧠 AI & Tools
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=flat&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat&logo=google-gemini&logoColor=white)
 
-### Operating Systems
-  ![Windows](https://img.shields.io/badge/-Windows%2010-333333?style=flat&logo=windows)
-  ![Red Hat](https://img.shields.io/badge/Red%20Hat-333333?style=flat&logo=redhat)
-  ![Ubuntu](https://img.shields.io/badge/-Ubuntu-333333?style=flat&logo=ubuntu)
+#### 🎨 Hobbies
+![Home Assistant](https://img.shields.io/badge/Home_Assistant-41BDF5?style=flat&logo=home-assistant&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat&logo=Adobe%20Photoshop&logoColor=black)
 
-### IoT
-  ![Home Assistant](https://img.shields.io/badge/home%20assistant-333333.svg?style=flat&logo=home-assistant)
-  ![Raspberry PI](https://img.shields.io/badge/-Raspberry%20Pi-333333?style=flat&logo=Raspberry%20Pi)
-  ![Arduino](https://img.shields.io/badge/-Arduino-333333?style=flat&logo=Arduino)
-  ![MQTT](https://img.shields.io/badge/-MQTT-333333?style=flat&logo=MQTT)
-  ![ESP](https://img.shields.io/badge/-ESP-333333?style=flat&logo=ESP)
-  
-### Artificial Intelligence and Bots
-  ![ChatGPT](https://img.shields.io/badge/chatGPT-333333?style=flat&logo=openai)
-  ![Google Gemini](https://img.shields.io/badge/Google%20Gemini-333333?style=flat&logo=googlegemini)
+---
 
-### Hobbies & Likes
-  ![Home Assistant](https://img.shields.io/badge/home%20assistant-333333.svg?style=flat&logo=home-assistant)
-  ![WordPress](https://img.shields.io/badge/WordPress-333333.svg??style=flat&logo=wordpress)
-  ![UptimeKuma](https://img.shields.io/badge/UptimeKuma-333333?style=flat&logo=uptimekuma)
-  
-<!--
-**eladzazon/eladzazon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📊 GitHub Stats
 
-Here are some ideas to get you started:
+![Elad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=eladzazon&show_icons=true&theme=radical&hide_border=true)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🌐 Blogs & Socials
+
+* 📝 **Tech Blog:** [Reka.us](https://reka.us)
+* 🌐 **Personal Site:** [Tazone.net](https://tazone.net)
+
+<div align="left">
+  <a href="mailto:eladzazon@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/elad-zazon-88510b1a">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.facebook.com/zazon">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+</div>
+
+<br />
+
+![Profile Views](https://u8views.com/api/v1/github/profiles/441114/views/day-week-month-total-count.svg)
