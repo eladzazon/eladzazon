@@ -1,21 +1,22 @@
 # Hi there, I'm Elad Zazon 👋
 
-### 🚀 DevOps & Automation Engineer
+### 🚀 DevOps Team Lead & IaC Automation Engineer
 
-I specialize in infrastructure automation, containerization, and making life easier with code.
+I specialize in enterprise infrastructure automation, container orchestration, and building reliable systems with code.
 
 ---
 
 ### ⚡ About Me
 
-* 🐳 **Containers:** I love developing and experimenting with **Docker** & **OpenShift**.
-* 🏠 **Home Automation:** Heavy user of **Home Assistant** for complex smart home setups.
-* 🤖 **DIY:** Passionate about electronics, IoT, and DIY hardware projects.
-* ⚙️ **Automation:** I use **Ansible**, **PowerShell**, & **Jenkins** to automate infrastructure.
-* 🔄 **RPA:** I utilize **UiPath** for specialized UI automation tasks.
-* 📱 **Mobile:** Android enthusiast (Team Pixel).
-* 🎨 **Creative:** I use **Photoshop** for design and hobby projects.
-* ✍️ **Blogging:** Long-time **WordPress** user maintaining two personal blogs.
+- 🐳 **Containers:** Deep experience managing **Docker**, **Kubernetes**, & **OpenShift** environments.
+- 🏠 **Home Automation:** Heavy user of **Home Assistant**, ESP32, and IoT smart home setups.
+- 🤖 **DIY & Hardware:** Passionate about electronics, single-board computers, and custom sensors.
+- ⚙️ **Automation:** I use **Ansible**, **Ansible Automation Platform**, **PowerShell**, & **Terraform** to scale infrastructure.
+- 🖥️ **Virtualization:** Managing enterprise workloads across **VMware** and **Proxmox** environments.
+- 🔄 **RPA:** I utilize **UiPath** for specialized UI automation tasks.
+- 📱 **Mobile:** Android enthusiast (Team Pixel).
+- 💻 **AI & Local LLMs:** Experimenting with local model serving, proxies, agents (**Hermes Agent**), and VibeCoding workflows.
+- ✍️ **Blogging:** Long-time **WordPress** user maintaining two personal blogs.
 
 ---
 
@@ -31,7 +32,10 @@ I specialize in infrastructure automation, containerization, and making life eas
 
 #### 🚀 DevOps & Infrastructure
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white)
+![Ansible Automation Platform](https://img.shields.io/badge/AAP-EE0000?style=flat&logo=ansible&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat&logo=terraform&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 ![OpenShift](https://img.shields.io/badge/OpenShift-EE0000?style=flat&logo=redhatopenshift&logoColor=white)
@@ -40,7 +44,9 @@ I specialize in infrastructure automation, containerization, and making life eas
 ![UiPath](https://img.shields.io/badge/UiPath-FA4616?style=flat&logo=uipath&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-#### 📡 IoT & OS
+#### 📡 IoT, Virtualization & OS
+![VMware](https://img.shields.io/badge/VMware-607078?style=flat&logo=vmware&logoColor=white)
+![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=flat&logo=proxmox&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat&logo=raspberry-pi&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
 ![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat&logo=mqtt&logoColor=white)
@@ -49,20 +55,25 @@ I specialize in infrastructure automation, containerization, and making life eas
 ![Red Hat](https://img.shields.io/badge/Red_Hat-EE0000?style=flat&logo=redhat&logoColor=white)
 
 #### 🧠 AI & Tools
-![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=flat&logo=openai&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat&logo=google-gemini&logoColor=white)
+![Antigravity](https://img.shields.io/badge/Antigravity-4A90E2?style=flat&logo=google&logoColor=white)
+![Hermes Agent](https://img.shields.io/badge/Hermes_Agent-FF6F00?style=flat&logo=robot&logoColor=white)
+![vLLM](https://img.shields.io/badge/vLLM-0055FF?style=flat&logo=python&logoColor=white)
+![LiteLLM](https://img.shields.io/badge/LiteLLM-B5212F?style=flat&logo=python&logoColor=white)
+![LocalAI](https://img.shields.io/badge/LocalAI-121212?style=flat&logo=openai&logoColor=white)
+![Open WebUI](https://img.shields.io/badge/Open_WebUI-3056D3?style=flat&logo=open-webui&logoColor=white)
 
 #### 🎨 Hobbies
 ![Home Assistant](https://img.shields.io/badge/Home_Assistant-41BDF5?style=flat&logo=home-assistant&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat&logo=Adobe%20Photoshop&logoColor=black)
+![VibeCoding](https://img.shields.io/badge/VibeCoding-FF6F61?style=flat&logo=codeforces&logoColor=white)
 
 ---
 
 ### 🌐 Blogs & Socials
 
-* 📝 **Tech Blog:** [Reka.us](https://reka.us)
-* 🌐 **Personal Site:** [Tazone.net](https://tazone.net)
+- 📝 **Tech Blog:** [Reka.us](https://reka.us)
+- 🌐 **Personal Site:** [Tazone.net](https://tazone.net)
 
 <div align="left">
   <a href="mailto:eladzazon@gmail.com">
@@ -75,7 +86,3 @@ I specialize in infrastructure automation, containerization, and making life eas
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
 </div>
-
-<br />
-
-![Profile Views](https://u8views.com/api/v1/github/profiles/441114/views/day-week-month-total-count.svg)
